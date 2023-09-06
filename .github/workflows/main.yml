@@ -16,4 +16,4 @@ jobs:
         with:
           server: ${{secrets.ftp_estacionamento_host}}
           username: ${{secrets.ftp_estacionamento_user}}
-          password: ${{secrets.ftp_estacionamento_password}}
+          password: ${{secrets.ftp_estacionamento_pass}}
